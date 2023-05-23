@@ -9,11 +9,11 @@
 
 ## Skills
 👨🏻‍🎓 Main Skills: 
-    * JS & TS 
-    * React/Next.js
-    * Node.js
-    * SQL & MONGODB
-    * Jest
+* JS & TS 
+* React/Next.js
+* Node.js
+* SQL & MONGODB
+* Jest
 
 🌱 Currently learning:
     * Solidity for EVM Blockchains
