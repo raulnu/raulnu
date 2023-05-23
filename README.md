@@ -2,17 +2,26 @@
 
 ## About me
 📍Barcelona (Spain)
-👷🏽 Working as Back End Developer at Corus Consulting
+
+👨🏽‍💻 Full Stack Developer
+
+👷🏽 Working as a Back End Developer at Corus Consulting
 
 ## Skills
 👨🏻‍🎓 Main Skills: 
     - JS & TS 
     - React/Next.js
     - Node.js
-    - SQL&MONGODB
+    - SQL & MONGODB
     - Jest
 
 🌱 Currently learning:
+    - Solidity for EVM Blockchains
+    - Hardhat & Ethers.js
+
+## Github Stats
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=r-navarrouribe&theme=dark&background=000000)](https://git.io/streak-stats)
 <!--
 **r-navarrouribe/r-navarrouribe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
