@@ -16,8 +16,8 @@
 * Jest
 
 🌱 Currently learning:
-    * Solidity for EVM Blockchains
-    * Hardhat & Ethers.js
+* Solidity for EVM Blockchains
+* Hardhat & Ethers.js
 
 ## Github Stats
 
