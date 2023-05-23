@@ -1,21 +1,22 @@
 ### Hi there 👋 I'm Raúl Navarro
 
-## About me
+# About me
 📍Barcelona (Spain)
 
 👨🏽‍💻 Full Stack Developer
 
 👷🏽 Working as a Back End Developer at Corus Consulting
 
-## Skills
-👨🏻‍🎓 Main Skills: 
+# Skills
+
+## 🎓 Main Skills: 
 * JS & TS 
 * React/Next.js
 * Node.js
 * SQL & MONGODB
 * Jest
 
-🌱 Currently learning:
+## 🌱 Currently Learning:
 * Solidity for EVM Blockchains
 * Hardhat & Ethers.js
 
