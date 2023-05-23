@@ -1,5 +1,18 @@
-### Hi there 👋
+### Hi there 👋 I'm Raúl Navarro
 
+## About me
+📍Barcelona (Spain)
+👷🏽 Working as Back End Developer at Corus Consulting
+
+## Skills
+👨🏻‍🎓 Main Skills: 
+    - JS & TS 
+    - React/Next.js
+    - Node.js
+    - SQL&MONGODB
+    - Jest
+
+🌱 Currently learning:
 <!--
 **r-navarrouribe/r-navarrouribe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
