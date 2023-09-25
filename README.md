@@ -11,13 +11,14 @@
 
 ## 🎓 Main Skills: 
 * JS & TS 
-* React/Next.js
+* React, Next.js
 * Node.js
-* SQL & MONGODB
+* Fastify, Express
+* PostgreSQL, MySQL, MongoDB
 * Jest
 
 ## 🌱 Currently Learning:
-* Solidity for EVM Blockchains
+* Cybersecurity
 * Hardhat & Ethers.js
 
 ## Github Stats
