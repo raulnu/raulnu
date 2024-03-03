@@ -5,7 +5,7 @@
 
 👨🏽‍💻 Full Stack Developer
 
-👷🏽 Working as a Back End Developer at Corus Consulting
+👷🏽 Working as a QA Engineer at Corus Consulting
 
 # Skills
 
@@ -15,11 +15,10 @@
 * Node.js
 * Fastify, Express
 * PostgreSQL, MySQL, MongoDB
-* Jest
+* Jest, Cypress
 
 ## 🌱 Currently Learning:
-* Cybersecurity
-* Hardhat & Ethers.js
+* Quality Assurance
 
 ## Github Stats
 
