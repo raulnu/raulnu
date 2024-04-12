@@ -2,9 +2,8 @@
 
 # About me
 📍Barcelona (Spain)
-
 👨🏽‍💻 Full Stack Developer
-
+🌱 Cyber Security Student
 👷🏽 Working as a QA Engineer at Corus Consulting
 
 # Skills
@@ -16,9 +15,6 @@
 * Fastify, Express
 * PostgreSQL, MySQL, MongoDB
 * Jest, Cypress
-
-## 🌱 Currently Learning:
-* Quality Assurance
 
 ## Github Stats
 
@@ -35,4 +31,5 @@
   <a href="mailto:raul.navarro.uribe@gmail.com">
     <img src="https://img.shields.io/badge/raul.navarro.uribe@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+  <script src="https://tryhackme.com/badge/2324264"></script>
 </section>
