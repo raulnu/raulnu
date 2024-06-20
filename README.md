@@ -2,9 +2,9 @@
 
 # About me
 
-📍Barcelona (Spain)
-👨🏽‍💻 Full Stack Developer
-🌱 Cyber Security Student
+📍Barcelona (Spain)\
+👨🏽‍💻 Full Stack Developer\
+🌱 Cyber Security Student\
 👷🏽 Working as a QA Engineer at Corus Consulting
 
 ## Contact
