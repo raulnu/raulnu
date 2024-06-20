@@ -1,20 +1,11 @@
 ### Hi there 👋 I'm Raúl Navarro
 
 # About me
+
 📍Barcelona (Spain)
 👨🏽‍💻 Full Stack Developer
 🌱 Cyber Security Student
 👷🏽 Working as a QA Engineer at Corus Consulting
-
-# Skills
-
-## 🎓 Main Skills: 
-* JS & TS 
-* React, Next.js
-* Node.js
-* Fastify, Express
-* PostgreSQL, MySQL, MongoDB
-* Jest, Cypress
 
 ## Contact
 
