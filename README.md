@@ -5,7 +5,7 @@
 📍Barcelona (Spain)\
 👨🏽‍💻 Full Stack Developer\
 🌱 Cyber Security Student\
-👷🏽 Working as a QA Engineer at Corus Consulting
+👷🏽 Working as a Front End Developer at Corus Consulting
 
 ## Contact
 
