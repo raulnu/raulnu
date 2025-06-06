@@ -3,9 +3,8 @@
 # About me
 
 📍Barcelona (Spain)\
+🌱 Cyber Security Analyst\
 👨🏽‍💻 Full Stack Developer\
-🌱 Cyber Security Student\
-👷🏽 Working as a Front End Developer at Corus Consulting
 
 ## Contact
 
